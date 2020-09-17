@@ -1,0 +1,15 @@
+{
+  "private": true,
+  "license": "CC-BY-NC-SA-4.0",
+  "name": "ycit006-workshop2",
+  "description": "TypeScript workshop #1 for McGill YCIT006",
+  "version": "1.0.0",
+  "keywords": [
+    "typescript"
+  ],
+  "author": "Ziad Saab <ziad.saab@gmail.com>",
+  "dependencies": {
+    "ts-node": "^9.0.0",
+    "typescript": "^4.0.2"
+  }
+}
